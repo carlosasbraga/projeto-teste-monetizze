@@ -1,0 +1,6 @@
+*.pyc
+__pycache__
+.vscode/
+debug.log
+*.txt
+*.html
